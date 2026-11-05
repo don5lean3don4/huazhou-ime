@@ -1,0 +1,25 @@
+# 构建产物
+build/
+*.apk.tmp
+*.idsig
+
+# 工具下载缓存
+tools/dl/
+tools/x_*/
+tools/tmp/
+tools/pylibs/
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
+debug.keystore
